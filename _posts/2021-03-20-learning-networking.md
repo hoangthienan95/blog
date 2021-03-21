@@ -21,8 +21,7 @@ Yes, really. I don't know how machines communicate with each other through the W
 For a gentle introduction, check out [this amazing, FREE zine](https://jvns.ca/networking-zine.pdf)
 Then proceed to read this book **High Performance Browser Networking**, available for free online [here](https://hpbn.co/)
 
-## 
-Here is what I did:
+## Here is what I did:
 
 1. Tried to get information from other blog posts, but they are either too technical or not technical enough, or concepts are explained poorly
 2. Googled "best networking book", and this book [Computer Networking: A Top-down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) by _James Kurose et al_ showed up. I remembered seeing people using it in college.
@@ -44,7 +43,9 @@ Then you will learn these extra concepts:
 - Different networking layers
 - How packets get sent in a local network (MAC address) 
 
-Next step, read this book **High Performance Browser Networking**, available for free online [here](https://hpbn.co/). I found this book while googling networking jargons that I had no clue.
+## Next step
+
+I plan to read this book **High Performance Browser Networking**, available for free online [here](https://hpbn.co/). I found this book while googling networking jargons that I had no clue.
 I find the following Amazon Review for this book pretty accurate:
 
 > If you ever took a networking class or read a networking book (e.g. Computer Networking: A Top-down Approach) then you know that networking is a broad subject that covers many topics. As a software engineer developing web applications, many of these topics might not be relevant to your day-to-day work (but nonetheless interesting). Browser networking takes the networking parts that are relevant to software engineers day-to-day and lays them out in a clear and concise manner.
