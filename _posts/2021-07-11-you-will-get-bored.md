@@ -4,7 +4,6 @@ description: "Activities you could do beside your job"
 layout: post
 toc: true
 comments: true
-image: https://www.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2018/10/Dead2.jpg
 hide: false
 search_exclude: true
 categories: [FIRE]
