@@ -48,10 +48,11 @@ I think a Redditor articulated perfectly my thinking approach to this so I will 
 
 ## Food
 ### Become a food stylist
-	- [Pinterest](https://www.pinterest.com/search/pins/?q=Food%20photography%20tips&rs=srs&b_id=BIezk93V-3ZHAAAAAAAAAAC3KbLIDGz9geFU02vGu-93zUZ8_pQ1PdsktBjgdLX3v2GyY1Y2rWJQ8MBL4j_2N6s&source_id=rlp_FHscMEbU)
-	- [Recipes Organized into Component Parts in Food Styling Photos by Mikkel Jul Hvilshøj | Colossal](https://www.thisiscolossal.com/2017/10/recipes-organized-into-component-parts-in-food-styling-photos-by-mikkel-jul-hvilshoj/)
-	- [246 Fun Miniature Dioramas By Japanese Artist Who’s Been Creating Them Every Day For 5 Years | Bored Panda](https://www.boredpanda.com/food-dioramas-miniature-calendar-tanaka-tatsuya/?media_id=677243&utm_source=pinterest&utm_medium=social&utm_campaign=organic)
-	- [Pinterest](https://www.pinterest.com/search/pins/?q=Ingredients%20photography&rs=srs&b_id=BA71v7D5FnpjAAAAAAAAAAAZCd3vf5DFkMAXNx3asF6qH2gO0318emEv36g9NayV2cSckZwyx_lDZIc4fQMneIRGUyOli8EjEA&source_id=rlp_FHscMEbU)
+
+- [Pinterest](https://www.pinterest.com/search/pins/?q=Food%20photography%20tips&rs=srs&b_id=BIezk93V-3ZHAAAAAAAAAAC3KbLIDGz9geFU02vGu-93zUZ8_pQ1PdsktBjgdLX3v2GyY1Y2rWJQ8MBL4j_2N6s&source_id=rlp_FHscMEbU)
+- [Recipes Organized into Component Parts in Food Styling Photos by Mikkel Jul Hvilshøj | Colossal](https://www.thisiscolossal.com/2017/10/recipes-organized-into-component-parts-in-food-styling-photos-by-mikkel-jul-hvilshoj/)
+- [246 Fun Miniature Dioramas By Japanese Artist Who’s Been Creating Them Every Day For 5 Years | Bored Panda](https://www.boredpanda.com/food-dioramas-miniature-calendar-tanaka-tatsuya/?media_id=677243&utm_source=pinterest&utm_medium=social&utm_campaign=organic)
+- [Pinterest](https://www.pinterest.com/search/pins/?q=Ingredients%20photography&rs=srs&b_id=BA71v7D5FnpjAAAAAAAAAAAZCd3vf5DFkMAXNx3asF6qH2gO0318emEv36g9NayV2cSckZwyx_lDZIc4fQMneIRGUyOli8EjEA&source_id=rlp_FHscMEbU)
 
 Baking Biscuits: https://twitter.com/EllaMcHawk/status/1398546083790442498
 	- [Ella Hawkins (@ellamchawk) • Instagram photos and videos](https://www.instagram.com/ellamchawk/)
