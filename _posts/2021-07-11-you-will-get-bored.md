@@ -1,3 +1,16 @@
+---
+title: "You will be bored"
+description: "Activities you could do beside your job"
+layout: post
+toc: true
+comments: true
+image: https://www.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2018/10/Dead2.jpg
+hide: false
+search_exclude: true
+categories: [FIRE]
+metadata_key1: metadata_value1
+metadata_key2: metadata_value2
+---
 
 **Tl;dr:** If you are worried with what you could do if you don’t have your 9-5 job, I’m providing you two lists of suggestions and inspirations below. One is my own, another is curated from Reddit threads
 
