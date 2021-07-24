@@ -24,6 +24,7 @@ There are many ways to rebut to the critism above. Here I'm quickly mentioning  
 
 - The RE part is optional, you have the choice, that's what matters.
 - Retiring from 9-5 job is not the same as sitting idle and rotting away.
+- The 9-5 job is not the only way to be productive/contributing to society
 - I'm bored right now at work.
 - Listing all the activities you would rather be doing instead of working.
 - etc etc
