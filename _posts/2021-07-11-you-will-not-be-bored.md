@@ -1,7 +1,7 @@
 ---
-title: "You won' be bored"
+title: "You won't be bored"
 description: "Activities you could do beside your job"
-image: images/you-will-not-be-bored.jpg
+image: https://images.unsplash.com/photo-1528543606781-2f6e6857f318?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=701&q=80
 layout: post
 toc: true
 comments: true
@@ -12,7 +12,7 @@ metadata_key1: metadata_value1
 metadata_key2: metadata_value2
 ---
 
-![](images/you-will-not-be-bored.jpg)
+![](https://images.unsplash.com/photo-1528543606781-2f6e6857f318?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=701&q=80)
 
 Image credit: [Fabio Comparelli on Unsplash](https://unsplash.com/@intothefab)
 
