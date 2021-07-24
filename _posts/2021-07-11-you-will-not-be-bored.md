@@ -1,7 +1,7 @@
 ---
 title: "You won' be bored"
 description: "Activities you could do beside your job"
-image: 
+image: images/you-will-not-be-bored.jpg
 layout: post
 toc: true
 comments: true
@@ -11,6 +11,8 @@ categories: [FIRE]
 metadata_key1: metadata_value1
 metadata_key2: metadata_value2
 ---
+
+Image credit: [Fabio Comparelli on Unsplash](https://unsplash.com/@intothefab)
 
 **Tl;dr:** If you are worried with what you could do if you don’t have your 9-5 job, I’m providing you two lists of suggestions and inspirations below. One is my own, another is curated from Reddit threads. I did not find any good list online to serve as inspiration for me so I hope someone would find this one helpful. This list does **NOT** contain anything related to traveling or ideas on starting a business, since there are other better resources for that. It is fine if you want to dabble a bit in each of the activity, but it should take you a decent amount of time to achieve the level of mastery seen in the resources for inspiration :) . 
 
