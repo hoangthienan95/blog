@@ -1,5 +1,5 @@
 ---
-title: "You will be bored"
+title: "You won' be bored"
 description: "Activities you could do beside your job"
 layout: post
 toc: true
